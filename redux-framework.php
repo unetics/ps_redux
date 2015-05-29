@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name:     PS_Redux Framework
+ * Plugin Name:     psredux Framework
  * Description:     Redux is a simple, truly extensible options framework for WordPress themes and plugins.
  * Version:         15.5.29
- * GitHub Plugin URI: https://github.com/unetics/ps_redux
+ * GitHub Plugin URI: https://github.com/unetics/psredux
  * GitHub Branch:     master
  */
 
